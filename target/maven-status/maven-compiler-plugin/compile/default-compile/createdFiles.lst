@@ -1,0 +1,10 @@
+com\Sign\controller\UserController.class
+com\Sign\model\User.class
+com\Sign\repository\RoleRespository.class
+com\Sign\repository\UserRepository.class
+com\Sign\service\UserServiceImpl.class
+com\Sign\SigninSignupApplication.class
+com\Sign\configuration\SecurityConfiguration.class
+com\Sign\configuration\WebMvcConfig.class
+com\Sign\service\UserService.class
+com\Sign\model\Role.class
